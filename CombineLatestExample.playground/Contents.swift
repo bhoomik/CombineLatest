@@ -1,5 +1,3 @@
-//: A UIKit based Playground for presenting user interface
-  
 import SwiftUI
 import Combine
 import PlaygroundSupport
